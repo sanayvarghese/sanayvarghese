@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://sanayvarghese.tk/)
-[![website](./img/globe-dark.svg)](https://sanayvarghese.tk/)
+[![website](./img/globe.svg)](https://sanayvarghese.tk/)
 &nbsp;&nbsp;
 [![website](./img/yt.svg)](https://youtube.com/)
 &nbsp;&nbsp;
