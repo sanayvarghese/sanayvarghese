@@ -8,15 +8,4 @@
 - 🥅 2022 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I love to draw, gaming, and play football
 
-### Connect with me:
-
-[![website](./img/globe.svg)](https://sanayvarghese.tk/)
-&nbsp;&nbsp;
-[![website](./img/yt.svg)](https://youtube.com/)
-&nbsp;&nbsp;
-[![website](./img/insta.svg)](https://instagram.com/_sanay_varghese_)
-&nbsp;&nbsp;
-[![website](./img/hackerrank.svg)](https://hackerrank.com/)
-&nbsp;&nbsp;
-
 ---
