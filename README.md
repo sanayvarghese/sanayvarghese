@@ -13,11 +13,9 @@
 [![website](./img/globe-light.svg)](https://sanayvarghese.tk/)
 [![website](./img/globe-dark.svg)](https://sanayvarghese.tk/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/)
-[![website](./img/youtube-dark.svg)](https://youtube.com/)
+[![website](./img/yt.svg)](https://youtube.com/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_sanay_varghese_)
-[![website](./img/instagram-dark.svg)](https://instagram.com/)
+[![website](./img/insta.svg)](https://instagram.com/_sanay_varghese_)
 &nbsp;&nbsp;
 [![website](./img/hackerrank.svg)](https://hackerrank.com/)
 &nbsp;&nbsp;
