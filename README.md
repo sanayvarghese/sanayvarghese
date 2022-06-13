@@ -19,7 +19,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/_sanay_varghese_)
 [![website](./img/instagram-dark.svg)](https://instagram.com/)
 &nbsp;&nbsp;
-[![website](./img/hackerrank.svg)](https://hackerrank.com/)
+[![website](./img/hackerrank1.svg)](https://hackerrank.com/)
 &nbsp;&nbsp;
 
 ---
